@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
 
 <p><em>4th Year B.Tech Student at <a href="https://iitr.ac.in/">Indian Institute of Technology, Roorkee</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
-Software Development Engineering Intern | AI/ML Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+Software Development Engineer | AI/ML Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![LinkedIn: vishal-bokhare](https://img.shields.io/badge/-vishal--bokhare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-bokhare/)](https://www.linkedin.com/in/vishal-bokhare/)
 [![Codeforces: vishurdx](https://img.shields.io/badge/-vishurdx-yellow?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/vishurdx)](https://codeforces.com/profile/vishurdx)
